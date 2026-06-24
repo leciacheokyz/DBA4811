@@ -6,8 +6,9 @@ This module provided me with the opportunity to make use of tools to extract ins
 ---
 ## Repository Structure
 ```
-├── individual-assignments/   # Individual assignment submissions
-├── group-project/            # Group project files and reports
+├── credit-card-default-risk-individual-assignment-1/
+├── predicting-housing-pricing-individual-assignment-2/
+├── customer-churn-prediction-project
 ```
 ---
 ## 🛠️ Tools & Languages
