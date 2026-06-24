@@ -10,7 +10,7 @@
 ├── customer-churn-prediction-project
 ```
 ---
-## 🛠️ Tools & Languages
+## Tools & Languages
 - Python
 - Jupyter Notebook
 - sklearn
