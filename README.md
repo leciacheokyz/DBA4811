@@ -5,8 +5,8 @@
 ---
 ## Repository Structure
 ```
-├── credit-card-default-risk-individual-assignment-2/
-├── predicting-housing-pricing-individual-assignment-3/
+├── credit-card-default-risk-individual-assignment-1/
+├── predicting-housing-pricing-individual-assignment-2/
 └──  customer-churn-prediction-project
 ```
 ---
