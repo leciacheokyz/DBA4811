@@ -7,7 +7,7 @@
 ```
 ├── credit-card-default-risk-individual-assignment-2/
 ├── predicting-housing-pricing-individual-assignment-3/
-├── customer-churn-prediction-project
+└──  customer-churn-prediction-project
 ```
 ---
 ## Tools & Languages
